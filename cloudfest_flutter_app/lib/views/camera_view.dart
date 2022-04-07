@@ -661,7 +661,8 @@ class _CameraViewState extends State<CameraView>
         setState(() {
           imageFile = file;
           if (imageFile != null && imageFile!.path.isNotEmpty) {
-            GallerySaver.saveImage(imageFile!.path);
+            // GallerySaver.saveImage(imageFile!.path);
+            ///   Add your rest API call here
           }
           videoController?.dispose();
           videoController = null;
@@ -772,7 +773,8 @@ class _CameraViewState extends State<CameraView>
         showInSnackBar('Video recorded to ${file.path}');
         videoFile = file;
         if (videoFile != null && videoFile!.path.isNotEmpty) {
-          GallerySaver.saveVideo(videoFile!.path);
+          // GallerySaver.saveVideo(videoFile!.path);
+          ///   Add your rest API call here
         }
         _startVideoPlayer();
       }
