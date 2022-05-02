@@ -1,5 +1,5 @@
-# NutriKnow A mobile app to capture food and get nutrition info in a click!!
-SzechuanTech brings professional risk management from BlackRock to individual investors looking to diversify investment portfolios and learn more about investments. Through an easy-to-use chatbot, users can get suggestions to diversify and grow their portfolio, getting quick access to broken-down information about any stock.
+# NutriKnow- A mobile app to capture food and get nutrition info in a click!!
+Team CacheLimes brings an easy-to-use calorie detector app. It takes image of a food item as input and gives as nutrition values as output. Through this app, users specially from rural areas can get to know more about unpackaged food and its nutritional benefits.
 
 ## Inspiration
 Even in 2017, managing financial securities involves either long and tedious meetings with a financial advisor, cold and impersonal interactions with an algorithm, or a mix of both. We felt that there was an opening in the chat bot marketplace for providing personalized financial data and recommendations to every day users.
